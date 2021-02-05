@@ -1,0 +1,168 @@
+The following puzzle state is unsolvable. Skipping to next Puzzle. 
+     754
+     362
+     E81
+
+The following puzzle state is unsolvable. Skipping to next Puzzle. 
+     218
+     435
+     E67
+
+Puzzle with the following initial state is solvable: 
+     42E
+     516
+     738
+
+   Solved in 12 movements of the emtpy tile which are listed below.
+     Left
+     Down
+     Down
+     Right
+     Up
+     Left
+     Left
+     Up
+     Right
+     Right
+     Down
+     Down
+
+Puzzle with the following initial state is solvable: 
+     184
+     75E
+     623
+
+   Solved in 23 movements of the emtpy tile which are listed below.
+     Left
+     Down
+     Left
+     Up
+     Up
+     Right
+     Right
+     Down
+     Left
+     Up
+     Left
+     Down
+     Right
+     Up
+     Right
+     Down
+     Down
+     Left
+     Up
+     Up
+     Right
+     Down
+     Down
+
+Puzzle with the following initial state is solvable: 
+     521
+     864
+     3E7
+
+   Solved in 29 movements of the emtpy tile which are listed below.
+     Right
+     Up
+     Left
+     Left
+     Down
+     Right
+     Up
+     Up
+     Left
+     Down
+     Right
+     Up
+     Right
+     Down
+     Down
+     Left
+     Up
+     Up
+     Left
+     Down
+     Right
+     Right
+     Up
+     Left
+     Left
+     Down
+     Right
+     Down
+     Right
+
+Puzzle with the following initial state is solvable: 
+     84E
+     576
+     312
+
+   Solved in 26 movements of the emtpy tile which are listed below.
+     Left
+     Left
+     Down
+     Right
+     Down
+     Left
+     Up
+     Right
+     Right
+     Down
+     Left
+     Up
+     Up
+     Right
+     Down
+     Down
+     Left
+     Up
+     Up
+     Left
+     Down
+     Right
+     Up
+     Right
+     Down
+     Down
+
+The following puzzle state is unsolvable. Skipping to next Puzzle. 
+     7E3
+     418
+     625
+
+Puzzle with the following initial state is solvable: 
+     143
+     6E8
+     725
+
+   Solved in 18 movements of the emtpy tile which are listed below.
+     Down
+     Right
+     Up
+     Up
+     Left
+     Down
+     Left
+     Up
+     Right
+     Right
+     Down
+     Left
+     Up
+     Left
+     Down
+     Right
+     Down
+     Right
+
+The following puzzle state is unsolvable. Skipping to next Puzzle. 
+     617
+     435
+     E28
+
+The following puzzle state is unsolvable. Skipping to next Puzzle. 
+     532
+     6E4
+     718
+
